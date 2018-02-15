@@ -1,0 +1,29 @@
+cat > replaces
+cat >> appends
+use ctrl d to finish
+mkdir makes directory
+rmdir deletes it
+echo = cat
+clear
+reset
+pwd
+ls = list
+cd = change directly
+cd ~/ = home directory
+rm filename = TOTALLY GONE
+rm -r = remove directory and all files inside
+-you will not get this back
+mv originalName NewName = rename file
+cp file1 file2 = copy file1 to file2
+history -c = clears history
+git init - initialized empty Git repository
+ls -a
+ls .git/
+git add index.html
+git status
+git add myDirectory
+git commit -m "this allows me to add a message"
+git add index.html
+git commit
+git remote add origin(this is the name) git@github.com:belnap/kittens.git
+git push -u origin master 

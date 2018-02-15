@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/emma/Documents/CommandLineHelp" added="2018-01-17T21:13:18Z" modified="2018-01-20T17:11:00Z" visited="2018-01-17T21:13:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-01-20T17:10:57Z" count="12"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-20T17:11:00Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/portfolio/index.html" added="2018-01-17T21:17:43Z" modified="2018-01-20T17:10:31Z" visited="2018-01-17T21:17:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2018-01-20T17:10:31Z" count="11"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-01-17T21:35:29Z" count="3"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-20T05:31:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/Downloads/atom-amd64.deb" added="2018-01-17T23:58:04Z" modified="2018-01-18T00:32:35Z" visited="2018-01-17T23:58:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-17T23:58:04Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gnome-software --local-filename=%f&apos;" modified="2018-01-18T00:32:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/Downloads/sublime_text_3_build_3143_x64.tar.bz2" added="2018-01-18T00:55:15Z" modified="2018-01-18T00:56:52Z" visited="2018-01-18T00:55:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bzip-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-18T00:55:15Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;file-roller %U&apos;" modified="2018-01-18T00:56:29Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-01-18T00:56:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/portfolio/contact.html" added="2018-01-18T01:41:45Z" modified="2018-01-20T05:31:18Z" visited="2018-01-18T01:41:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;firefox %u&apos;" modified="2018-01-18T01:41:45Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-20T05:31:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/portfolio/pages/contact.html" added="2018-01-18T01:46:48Z" modified="2018-01-18T06:17:10Z" visited="2018-01-18T01:46:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/opt/sublime_text/sublime_text %F&apos;" modified="2018-01-18T01:47:34Z" count="4"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-18T06:17:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/Downloads/IMG_20170430_142931.jpg" added="2018-01-20T03:33:23Z" modified="2018-01-20T03:33:23Z" visited="2018-01-20T03:33:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-20T03:33:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/portfolio/experience.html" added="2018-01-20T05:31:18Z" modified="2018-01-20T05:31:18Z" visited="2018-01-20T05:31:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-20T05:31:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/portfolio/IMG_20170430_142931.jpg" added="2018-01-20T05:31:18Z" modified="2018-01-20T05:31:18Z" visited="2018-01-20T05:31:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-20T05:31:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/portfolio/portfolio.css" added="2018-01-20T05:31:18Z" modified="2018-01-20T05:31:18Z" visited="2018-01-20T05:31:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-20T05:31:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emma/portfolio/projects.html" added="2018-01-20T05:31:18Z" modified="2018-01-20T05:31:18Z" visited="2018-01-20T05:31:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2018-01-20T05:31:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

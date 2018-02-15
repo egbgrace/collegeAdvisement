@@ -1,0 +1,22 @@
+logrotate state -- version 2
+"/home/emma/.cache/upstart/gnome-keyring-ssh.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/hud.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/gpg-agent.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/indicator-printers.log" 2018-1-10-11:29:23
+"/home/emma/.cache/upstart/unity7.log" 2018-1-20-9:15:33
+"/home/emma/.cache/upstart/unity-panel-service.log" 2018-1-20-9:15:33
+"/home/emma/.cache/upstart/unity-panel-service-lockscreen.log" 2018-1-12-19:16:22
+"/home/emma/.cache/upstart/unity-settings-daemon.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/upstart-event-bridge.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/indicator-datetime.log" 2018-1-9-21:29:47
+"/home/emma/.cache/upstart/indicator-sound.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/gnome-keyring.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/at-spi2-registryd.log" 2018-1-10-13:58:42
+"/home/emma/.cache/upstart/update-notifier-release.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/unicast-local-avahi.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/bamfdaemon.log" 2018-1-20-8:45:53
+"/home/emma/.cache/upstart/update-notifier-crash-_var_crash__opt_sublime_text_sublime_text.1000.crash.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/window-stack-bridge.log" 2018-1-20-9:53:52
+"/home/emma/.cache/upstart/indicator-keyboard.log" 2018-1-10-11:29:23
+"/home/emma/.cache/upstart/dbus.log" 2018-1-20-9:15:33
+"/home/emma/.cache/upstart/ssh-agent.log" 2018-1-20-9:53:52

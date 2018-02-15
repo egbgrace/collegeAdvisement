@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Color</ShortName>
+   <LongName>Color Search</LongName>
+  <Description>Browse thousands of color combinations from the Color community.</Description>
+  <Image width="16" height="16" type="image/x-icon">data:image/x-icon;base64,AAABAAEAEBAAAAAAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAABDDET/QwxE/0MMQ/9DDEP/QwxD/0IMQ/9CDEL/QgxC/0EMQv9BDEL/PQk9/zcFOf87CDz/QAtA/z8LP/8/Cz//RAxF/0QMRf9EDET/RAxE/0QMRP9DDET/QwxD/0MMQ/9DDEP/PQg+/1cdVv+FQX//XiNc/zwIPP9ADEH/QAtA/0YNRv9FDEb/RQxG/0UMRf9EDEX/Pgc//zoEO/86BDv/OAM5/1IXUP+3aK3/i0WE/61gpP9gJF3/PAg9/0EMQf9HDUf/Rw1H/0cNR/9EC0T/PgY+/24sa/+cUJb/n1OZ/3Yzc/+aT5P/nFKV/x4AIv+KRIT/ikWE/zkFOv9CDEL/SA1I/0gNSP9GDEb/RQtF/7JhrP/Fb7z/j0aK/4hAg/+tXqb/wGy2/2MkYf+bUZX/vGuy/10gW/8/CED/QwxD/0kNSv9JDUn/PgVA/6daov+4ZrL/dzJ1/855yP/fhtf/fjh7/zsEPP/Abbf/n1OY/1YZVf8/CED/RAxF/0QMRP9KDUv/RwtI/1gZWP/Rfsr/djN0//ig8v/Wf87/qFqk/3w2ef9+OHv/sWGq/3s2d/85Azv/Rg1G/0UMRf9FDEX/Sw5M/0QIRf93NHb/tmyz/6Vbof/yner/RwtI/y4AMP+vYKr/5Inb/4tCh/+oWaH/PAU9/0cNR/9GDUb/Rg1G/0wOTf9GCUf/cTBx/751uv+ZU5b//Kz3/2cmZv89Aj7/m1CX/9J9y/+USI//pVaf/z0EPv9HDUj/Rw1H/0YNR/9NDk7/TA1M/1AQUP/UjND/ejh5/9iO1P/+r/n/55nj/4M+gf9XF1b/0nzL/3Qvcv84ADr/SA1J/0gNSf9HDUj/Tw5P/04OT/9FBUb/hkOF/9mU1v96OHn/mlWY/6hhp/+DPoH/YyNj/6lbpP/Rfs3/jEGI/0UJRv9JDUn/SA1J/1AOUP9PDlD/Tw5Q/0UFR/+GRIb/04/R/714uv+3cLT/zYDI/+OR3f94M3b/bS1t/9F4x/+BOX7/QgdD/0kNSf9RD1L/UQ9R/1APUf9QD1H/RwVI/1IRU/91MnT/fDh6/1QUVf+MRIn/y3rE/zAAMv+rWqX/n1GZ/z8EQf9KDUr/Ug9T/1IPUv9RD1L/UQ9S/1EPUv9PDU//SglL/0gISf9JCUv/UhFS/8Nyvv/Of8v/zXbF/1saWv9IC0n/Sg1L/1MPVP9TD1T/Ug9T/1IPU/9SD1L/UQ9S/1EPUf9QDlH/UA5Q/0wLTf9PDk//ayhr/1ISUv9ICkn/TA5N/0sOTP9UD1X/VA9V/1MPVP9TD1T/Ug9T/1IPU/9RD1L/UQ9R/1APUf9QDlD/TQ1O/0gJSf9LDEz/TQ5O/0wOTf9MDkz/AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//w==</Image>
+  <Image width="64" height="64" type="image/png">https://color.adobe.com/icon-64x64.png</Image>
+  <Url type="text/html" method="get" template="https://color.adobe.com/{searchTerms}-art-colors"/>
+  <Url type="application/opensearchdescription+xml"
+     rel="self"
+     template="http://color.adobe.com/opensearch.xml" />
+ <Tags>color schemes colour</Tags>
+  <Query role="example" searchTerms="red" />
+  <moz:SearchForm>https://color.adobe.com/explore</moz:SearchForm>
+</OpenSearchDescription>

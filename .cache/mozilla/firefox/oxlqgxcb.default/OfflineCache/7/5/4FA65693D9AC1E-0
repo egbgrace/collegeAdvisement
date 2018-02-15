@@ -1,0 +1,3 @@
+self.onmessage = function (e) {
+  self.postMessage(restrict.generate(e.data, <%=nSectors%>, <%=nStripes%>, <%=nDepths%>, <%=jaggered%>,<%=pad%>));
+};

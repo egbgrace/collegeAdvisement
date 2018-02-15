@@ -1,0 +1,5 @@
+<%= panelPre %>;
+var productPre = <%= productPre %>;
+productPre();
+var f =  <%= functionName %>;
+f.apply(null,<%= arg %> );

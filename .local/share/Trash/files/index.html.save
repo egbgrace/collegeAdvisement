@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Emma's Web Server</title>
+</head>
+<body>
+
+<h1>Introduction</h1>
+<p>Hi, my name is Emma Belnap</p>
+
+<ul>
+	<li>One</li>
+	<li>Two</li>
+	</ul>
+</body>
+</html>

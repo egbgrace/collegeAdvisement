@@ -1,0 +1,19 @@
+<monitors version="1">
+  <configuration>
+      <clone>yes</clone>
+      <output name="VGA-1">
+          <vendor>VBX</vendor>
+          <product>0x0000</product>
+          <serial>0x039f040b</serial>
+          <width>2560</width>
+          <height>1600</height>
+          <rate>60</rate>
+          <x>0</x>
+          <y>0</y>
+          <rotation>normal</rotation>
+          <reflect_x>no</reflect_x>
+          <reflect_y>no</reflect_y>
+          <primary>yes</primary>
+      </output>
+  </configuration>
+</monitors>
